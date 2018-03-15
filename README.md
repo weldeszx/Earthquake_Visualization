@@ -1,1 +1,1 @@
-# Earthquake_Visualization
+# Earthquake_Viz
